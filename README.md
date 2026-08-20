@@ -12,4 +12,4 @@
 
 ## 📫 Connect with Me
 
-[LinkedIn](https://linkedin.com) | [Email](202401412@pua.edu.eg)
+[LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/asmaa-mostafa-b9b422365?utm_source=share&utm_campaign=share_via&utm_content=profile) | [Email](202401412@pua.edu.eg)
