@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hey there, I'm Asmaa
 
-<!--
-**202401412-sketch/202401412-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Developer | 🤖 CS & AI Student | 📊 Data Enthusiast
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Specialized in building modern web applications with **React** & Front-End tech
+* 🎓 Computer Science Student specializing in **Artificial Intelligence** & **Databases**
+* 📊 Strong foundation in **Data Science** & **Data Analytics**
+* 🛡️ Exploring basics of **Cybersecurity** & safe coding practices
+* 🚀 Passionate about bridging Web Development with AI & Data systems
+
+## 📫 Connect with Me
+
+[LinkedIn](https://linkedin.com) | [Email](202401412@pua.edu.eg)
